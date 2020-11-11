@@ -12,9 +12,17 @@ You can download this repository to your own computer and work on it there. When
 
 Remember to update your name in the *candidate.json* file. If your code requires any external libraries, write them down in the *requirements.txt* file.
 
+# Evaluation
+
+Your delivery will be scored with respect to the following metrics:
+
+- Clear and understandable code
+- Analytic approach
+- Task scoring (deliverables will be evaulated with test data)
+
 # Tasks
 
-Below are two tasks in order with inceasing complexity. Do your best with the
+Below are two tasks in order of inceasing complexity. Do your best with the
 time you have availible.
 
 ## Task 1
@@ -40,3 +48,7 @@ Complete function *task_2* in *functions.py*. The function should accept a press
 # Testing
 
 You can test your functions by running *python test.py* in a terminal (make sure that the folder that contains test.py is your working directory).
+
+# Details
+
+You are free to add other files and/or functions to complete your tasks. But only the functions task_1 and task_2 will be called during evaluation. Make sure that you use relative paths and include all your necessary files in the zip
