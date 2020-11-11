@@ -41,7 +41,7 @@ Complete function *task_1* in *functions.py*. The function should accept two par
 
 **Introduction**
 
-In the data folder you will find a file *dataset_2.csv*. This file contains results gathered from simulations. The first column is pressure, the second column is the standard deviation of a stress series at a hot spot. The last column is the calulated damage at this hotspot for this stress series.
+In the data folder you will find a file *dataset_2.csv*. This file contains results gathered from simulations. The first column is pressure, the second column is the standard deviation of a stress series at a hot spot. The last column is the calculated damage at this hotspot for this stress series.
 
 **Objective**
 
