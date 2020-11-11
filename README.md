@@ -12,6 +12,8 @@ You can download this repository to your own computer and work on it there. When
 
 Remember to update your name in the *candidate.json* file. If your code requires any external libraries, write them down in the *requirements.txt* file.
 
+It is better to deliver something than nothing, you don't need to complete the tasks to deliver.
+
 # Evaluation
 
 Your delivery will be scored with respect to the following metrics:
